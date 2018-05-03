@@ -1,10 +1,10 @@
 # Site settings
-title: Thyroidgland
+title: RNGDES
 subtitle:
-email: thyroidgland.twitch@gmail.com
+email: rngdes.stream@gmail.com
 description: Variety streamer. Gamer. Designer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thyroidg.land/" # the base hostname & protocol for your site
+url: "https://rngdes.github.io" # the base hostname & protocol for your site
 author: Anthony Nguyen
 street_address:
 city: 
