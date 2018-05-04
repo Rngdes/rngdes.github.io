@@ -9,9 +9,13 @@ overlay-image: assets/images/overlays/poe2/overlay-example.jpg
 permalink: /:categories/:title
 ---
 
+<span class="image main"><img src="/assets/images/overlays/poe2/overlay-example-2.jpg" alt=""></span>
+
 ## Path of Exile 3.0+ Stream Overlay
 
 Overlay that matches the visual styling of Path of Exile. Lightweight and doesn't get in the way of the gameplay. Webcam and stream overlays are separated into different files for any streamers who don't have a webcam.
+
+This overlay comes with two styles. One with the webcam attached to the bottom bar, and another where the webcam is able to be hidden and moved to the right.
 
 #### **SIZING**
 All overlays are designed at a 16:9 ratio and exported at 1920x1080 resolution If you're streaming at a 1280x720 output just resize the graphic within your streaming app and it will keep the same ratio. All files are saved at 1920x1080 so that when you layer each image into your software it all aligns pixel perfect. No need for manual adjustments. Everything comes out of the box visually balanced giving your stream that professional apperance.
